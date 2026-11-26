@@ -881,10 +881,8 @@
 
           <!-- ===== MENU 1: KOPI IJO TULUNGAGUNG ===== -->
           <div class="menu-card">
-            <img src="images/kopi-ijo-tulungagung.jpg"
-                 alt="Kopi Ijo Tulungagung"
-                 class="menu-img"
-                 onerror="this.outerHTML='&lt;div class=&quot;menu-emoji&quot;&gt;🍵&lt;/div&gt;'">
+            <img src="">
+
             <div class="menu-info">
               <h4>Kopi Ijo Tulungagung
                 <span class="menu-badge-inline">KHAS</span>
